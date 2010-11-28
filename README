@@ -1,0 +1,7 @@
+Blinkentube - a javascript Blinkenlights player
+
+The following directories must be writeable:
+
+- files/asset
+- movies
+
