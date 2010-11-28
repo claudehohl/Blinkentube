@@ -1,0 +1,105 @@
+body {
+	background: #000;
+	color: transparent;
+}
+
+::-moz-selection {
+	background: transparent;
+	color: transparent;
+}
+
+::selection {
+	background: transparent;
+	color: transparent;
+}
+
+.font {
+	font-family: Trebuchet MS, sans-serif;
+	font-size: 10pt;
+}
+
+.buttonlink {
+	font-size: 20px;
+	text-decoration: none;
+	color: #ccc;
+	text-align: center;
+}
+
+.spacer {
+	margin: 10px;
+}
+
+/* browser offset */
+.bo {
+	position: relative;
+}
+
+.add_animation {
+	position: absolute;
+	right: 0;
+	width: 300px;
+}
+
+.mod fieldset {
+	border: 0px solid #999;
+}
+
+.mod input {
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	background: #333;
+	color: #fff;
+}
+
+.mod .button:hover {
+	background: #444;
+	cursor: pointer;
+}
+
+.mod label {
+	position: absolute;
+	top: -1000px;
+	left: -1000px;
+	width: 0px;
+	height: 0px;
+}
+
+.mod textarea {
+	width: 100%;
+	background: #333;
+	color: #fff;
+}
+
+.buttonbar {
+	width: 640px;
+	margin: auto;
+	position: relative;
+	top: 40px;
+}
+
+.embed_movie {
+	position: absolute;
+	left: 0;
+	width: 250px;
+}
+
+.mod {
+	color: #999;
+	background: #222;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border: 1px solid #999;
+	padding: 10px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.mod form {
+	display: none;
+	margin-top: 10px;
+}
+
+.mod:hover {
+	background: #292929;
+}
+

@@ -1,0 +1,124 @@
+
+.blinkenbuilding_arcade {
+	position: relative;
+	background: url('../../img/blinkenbuilding_arcade.jpg');
+	width: 640px;
+	height: 480px;
+	margin: auto;
+	top: 20px;
+	font-size: 15px;
+}
+
+.blinkenbuilding_arcade .grid {
+	position: absolute;
+	top: 31px;
+	left: 157px;
+}
+
+.blinkenbuilding_arcade .grid div {
+	margin: 1px 0 0;
+	padding: 0;
+	height: 17px;
+}
+
+.blinkenbuilding_arcade .grid span {
+	display: inline-block;
+}
+
+/* lights, please */
+.blinkenbuilding_arcade .b4l0 {
+	background: url('../../img/lights/arcade/4bit.jpg') 0px;
+	width: 9px;
+	height: 17px;
+}
+
+.blinkenbuilding_arcade .b4l1 {
+	background: url('../../img/lights/arcade/4bit.jpg') -9px;
+	width: 9px;
+	height: 17px;
+}
+
+.blinkenbuilding_arcade .b4l2 {
+	background: url('../../img/lights/arcade/4bit.jpg') -18px;
+	width: 9px;
+	height: 17px;
+}
+
+.blinkenbuilding_arcade .b4l3 {
+	background: url('../../img/lights/arcade/4bit.jpg') -27px;
+	width: 9px;
+	height: 17px;
+}
+
+.blinkenbuilding_arcade .b4l4 {
+	background: url('../../img/lights/arcade/4bit.jpg') -36px;
+	width: 9px;
+	height: 17px;
+}
+
+.blinkenbuilding_arcade .b4l5 {
+	background: url('../../img/lights/arcade/4bit.jpg') -45px;
+	width: 9px;
+	height: 17px;
+}
+
+.blinkenbuilding_arcade .b4l6 {
+	background: url('../../img/lights/arcade/4bit.jpg') -54px;
+	width: 9px;
+	height: 17px;
+}
+
+.blinkenbuilding_arcade .b4l7 {
+	background: url('../../img/lights/arcade/4bit.jpg') -63px;
+	width: 9px;
+	height: 17px;
+}
+
+.blinkenbuilding_arcade .b4l8 {
+	background: url('../../img/lights/arcade/4bit.jpg') -72px;
+	width: 9px;
+	height: 17px;
+}
+
+.blinkenbuilding_arcade .b4l9 {
+	background: url('../../img/lights/arcade/4bit.jpg') -81px;
+	width: 9px;
+	height: 17px;
+}
+
+.blinkenbuilding_arcade .b4la {
+	background: url('../../img/lights/arcade/4bit.jpg') -90px;
+	width: 9px;
+	height: 17px;
+}
+
+.blinkenbuilding_arcade .b4lb {
+	background: url('../../img/lights/arcade/4bit.jpg') -99px;
+	width: 9px;
+	height: 17px;
+}
+
+.blinkenbuilding_arcade .b4lc {
+	background: url('../../img/lights/arcade/4bit.jpg') -108px;
+	width: 9px;
+	height: 17px;
+}
+
+.blinkenbuilding_arcade .b4ld {
+	background: url('../../img/lights/arcade/4bit.jpg') -117px;
+	width: 9px;
+	height: 17px;
+}
+
+.blinkenbuilding_arcade .b4le {
+	background: url('../../img/lights/arcade/4bit.jpg') -126px;
+	width: 9px;
+	height: 17px;
+}
+
+.blinkenbuilding_arcade .b4lf {
+	background: url('../../img/lights/arcade/4bit.jpg') -135px;
+	width: 9px;
+	height: 17px;
+}
+

@@ -1,0 +1,35 @@
+
+.blinkenbuilding {
+	position: relative;
+	background: url('../../img/blinkenbuilding.jpg');
+	width: 640px;
+	height: 480px;
+	margin: auto;
+	top: 20px;
+	font-size: 15px;
+}
+
+.blinkenbuilding .grid {
+	position: absolute;
+	top: 64px;
+	left: 286px;
+}
+
+.blinkenbuilding .grid div {
+	margin: 5px 0 0;
+	padding: 0;
+	height: 19px;
+}
+
+.blinkenbuilding .grid span {
+	margin: 1px;
+	padding: 0 4px;
+}
+
+/* lights, please */
+.blinkenbuilding .l1 {
+	background-image: url('../../img/lights/classic/win_active.jpg');
+	width: 12px;
+	height: 16px;
+}
+

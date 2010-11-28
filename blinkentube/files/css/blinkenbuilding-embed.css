@@ -1,0 +1,17 @@
+.blinkenbuilding {
+	position: relative;
+	background: url('../../img/blinkenbuilding-embed.jpg');
+	width: 316px;
+	height: 325px;
+	top: -8px;
+	left: -8px;
+	font-size: 15px;
+	margin: 0;
+}
+
+.blinkenbuilding .grid {
+	position: absolute;
+	top: 42px;
+	left: 30px;
+}
+

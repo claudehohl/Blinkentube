@@ -1,0 +1,16 @@
+.blinkenbuilding_arcade {
+	position: relative;
+	background: url('../../img/blinkenbuilding_arcade-embed.jpg');
+	width: 272px;
+	height: 420px;
+	top: -8px;
+	left: -8px;
+	margin: 0;
+}
+
+.blinkenbuilding_arcade .grid {
+	position: absolute;
+	top: 30px;
+	left: 20px;
+}
+
